@@ -11,7 +11,8 @@ download/*
 image/*
 image/
 
-
+system/
+system/*
 
 vqmod/
 vqmod/*
