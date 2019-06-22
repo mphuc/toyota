@@ -60,7 +60,7 @@
 <?php endif; ?>
 
 <!-- Load Facebook SDK for JavaScript -->
-<!-- Load Facebook SDK for JavaScript -->
+<!-- Load Facebook SDK for JavaScript <a href="tel:0977789575" id="callnowbutton" >&nbsp;</a>   -->
 <div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
