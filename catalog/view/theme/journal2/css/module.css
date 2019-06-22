@@ -1894,7 +1894,7 @@ html[dir="rtl"] .post-button {
       margin-right: 6px; }
   .blog-post .post-stats.comment-date {
     border-width: 0;
-    display: block; }
+    display: none; }
 .blog-post .social {
   border-top: 1px solid #EEEEEE;
   margin-top: 15px;
