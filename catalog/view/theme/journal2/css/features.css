@@ -389,7 +389,7 @@ SIDE BLOCKS
 SCROLL TOP
 *******************************/
 .scroll-top {
-  display: none;
+  display: none !important;
   position: fixed;
   z-index: 9999;
   right: 5px;
