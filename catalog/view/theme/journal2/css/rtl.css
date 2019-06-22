@@ -892,3 +892,6 @@ html[dir="rtl"].journal-desktop .menu-floated .float-right:last-of-type {
 .support-icon-right{
   width: 200px !important;
 }
+.post-stats.comment-date{
+  display: none;
+}
