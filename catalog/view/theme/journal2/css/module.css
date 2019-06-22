@@ -2428,3 +2428,6 @@ button.close-notice.x-icon:before {
 .ie:not(.edge) .safari5 .main-products {
   width: 100%;
   display: table; }
+.blog-post .post-stats.comment-date{
+  display: none;
+}
